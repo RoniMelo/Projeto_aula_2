@@ -7,3 +7,9 @@ git diff (mostra as modificações nos arquivos)
 git status
 git log   (mostra log dos COMMITS)
 git show <digite a hash do commit ex: c4393462a22a48c0f163ce30cddb173dbf8811a7>
+
+.gitignore
+exemplos:
+*.txt - ignora todos .txt
+*.py - ignora todos 3.py
+!3.py - ignora todos, exceto arquivo 3.py

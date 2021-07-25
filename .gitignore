@@ -1,1 +1,6 @@
 me_ignore.txt
+
+*.txt 
+*.py 
+!3.py
+
